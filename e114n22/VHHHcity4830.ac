@@ -4,7 +4,7 @@ OBJECT world
 kids 3
 OBJECT poly
 name "LOD_bare"
-texture "../../../Models/OSM/VHHH/tex/atlas_facades.png"
+texture "../../../Models/OSM/tex/VHXX/atlas_facades.png"
 numvert 1078
 -71.2701 17.33 1320.36
 -71.3476 17.33 1315.65
@@ -5463,7 +5463,7 @@ refs 28
 kids 0
 OBJECT poly
 name "LOD_rough"
-texture "../../../Models/OSM/VHHH/tex/atlas_facades.png"
+texture "../../../Models/OSM/tex/VHXX/atlas_facades.png"
 numvert 3225
 364.339 6.276 1546.9
 318.705 6.276 1638.95
@@ -21808,7 +21808,7 @@ refs 10
 kids 0
 OBJECT poly
 name "LOD_detail"
-texture "../../../Models/OSM/VHHH/tex/atlas_facades.png"
+texture "../../../Models/OSM/tex/VHXX/atlas_facades.png"
 numvert 304
 1489.19 29.783 1880.78
 1495.65 29.783 1879.23
