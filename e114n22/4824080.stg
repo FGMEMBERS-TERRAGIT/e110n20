@@ -41,6 +41,8 @@ OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2129923 22.3103089 5.33 32
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2175897 22.2975654 -0.02 112.44
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2227195 22.2981982 -1.15 18.64
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2327029 22.2841087 0 357.16
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 114.0631143 22.3396298 -2.46 0
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 114.111227 22.2836655 -2.4 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 114.0027969 22.3461136 -0.21 157.73
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 114.0229881 22.2717585 -0.01 215.57
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 114.0230694 22.272865 -0.01 94.02
@@ -96,3 +98,8 @@ OBJECT_STATIC hong-kong-citybank-tower.ac 114.1607 22.2787 30.65 140
 OBJECT_STATIC langham-place-office-tower.ac 114.168086 22.318153 14.36 60
 OBJECT_STATIC highcliff.ac 114.184167 22.26516 155.91 128
 OBJECT_STATIC hsbc-building-hong-kong.ac 114.1594405 22.2804103 51.29 244
+OBJECT_STATIC cosco-tower.ac 114.15309 22.28543 0 168
+OBJECT_STATIC manulife-plaza.ac 114.1845497 22.2782331 52.88 192
+OBJECT_STATIC sun-hung-kai-centre.ac 114.176947 22.280224 0 284
+OBJECT_STATIC harbourfront-landmark.ac 114.192656 22.303333 0 184
+OBJECT_STATIC the-summit.ac 114.183611 22.265528 160.91 96

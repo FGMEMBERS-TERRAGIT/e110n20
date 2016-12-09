@@ -37,7 +37,7 @@ OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Yellow.ac 113.8870892 22.311
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 113.9137302 22.362822 -0.23 10.84
 OBJECT_STATIC vhhh-control-tower1.ac 113.92149 22.31022 9.75 20
 OBJECT_STATIC vhhh-north-satellite-concourse.ac 113.93023 22.31725 8.27 288
-OBJECT_STATIC vhhh-terminal1.ac 113.9298403 22.3137985 9.68 200
+OBJECT_STATIC vhhh-terminal1.ac 113.93005707 22.3139165 9.64 199.1
 OBJECT_STATIC vhhh-control-tower2.ac 113.92099 22.31202 9.29 200
 OBJECT_STATIC vhhh-hong-kong-skycity-mariott-hotel.ac 113.94366 22.31916 4.63 312
 OBJECT_STATIC vhhh-terminal2.ac 113.937694 22.3165951 6.64 112
