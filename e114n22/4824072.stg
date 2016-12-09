@@ -14,6 +14,7 @@ OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2286892 22.226942 -0.01 22
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2323972 22.2303469 0.31 234.94
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2325611 22.2253964 -0.01 121.45
 OBJECT_SHARED Models/Maritime/Misc/MarkerBuoy.xml 114.2335224 22.2284438 0.59 228.09
+OBJECT_SHARED Models/Maritime/Civilian/Lighthouse.xml 114.2139454 22.1955273 53.35 0
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Conical-Green.ac 114.022208 22.2242924 -0.01 114.17
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Cylindrical-Red.ac 114.0236735 22.223148 -0.01 51.37
 OBJECT_SHARED Models/Maritime/Misc/Buoy-Safe-Water.ac 114.1731324 22.2092732 -0.15 187.85
