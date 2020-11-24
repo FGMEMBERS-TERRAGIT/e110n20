@@ -1,3 +1,9 @@
 OBJECT_SHARED Models/Airport/ndb.ac 113.371667 23.363333 22.21 180
 OBJECT_SHARED Models/Airport/localizer.xml 113.282775 23.374103 7.22 283.85
 OBJECT_SHARED Models/Airport/localizer.xml 113.304603 23.372819 8.27 283.88
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/garage-small-white.ac 113.30950 23.36727 10.00 256.48
+OBJECT_SHARED Models/lib/office40x25.ac 113.31016 23.36817 9.40 346.68
+# END dsf2stg
